@@ -1,0 +1,19 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.portWin": "COM6",
+  "idf.adapterTargetName": "esp32s3",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-bridge.cfg"
+  ],
+  "files.associations": {
+    "rmt_tx.h": "c",
+    "rmt_rx.h": "c",
+    "app_wifi.h": "c",
+    "stdbool.h": "c",
+    "app_insights.h": "c",
+    "task.h": "c",
+    "led_strip.h": "c",
+    "am2302_rmt.h": "c"
+  },
+  "idf.flashType": "UART"
+}
